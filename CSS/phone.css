@@ -1,0 +1,15 @@
+/* navigation section */
+#navbar{
+    flex-direction: column;
+}
+/* Home */
+/* Services */
+#services{
+    flex-direction: column;
+}
+#services .box{
+
+}
+/* Client section */
+/* Contact Us */
+/* Footer */
